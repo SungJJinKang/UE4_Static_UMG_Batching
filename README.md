@@ -1,0 +1,1 @@
+# UE4_Static_UMG_Batching
